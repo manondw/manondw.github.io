@@ -1,0 +1,29 @@
+body{
+  background: rgb(39,40,34);
+  color: rgb(254,170,146);
+  font-size: 15px;
+  font-family: Gill Sans mt;
+}
+h1{
+  font-family: Gill Sans mt;
+  color: rgb(100,100,100);
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: Gill Sans mt;
+  color: rgb(170,170,170);
+  font-weight: lighter;
+  font-size: 18px;
+}
+a {
+  color: rgb(100,154,82);
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+.footer{
+  background:rgb(170,170,170);
+
+}
